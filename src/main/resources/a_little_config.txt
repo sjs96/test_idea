@@ -1,0 +1,23 @@
+jdbcUrl=jdbc:mysql://127.0.0.1:3306/meter?useUnicode=true&CharacterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai
+user=root
+password=123456
+devMode=true
+driverClassName=com.mysql.jdbc.Driver
+
+#jdbcUrl=jdbc:sqlserver://localhost:56158;DatabaseName=DB20170001
+#user=oa
+#password=123456
+#devMode=true
+#driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+
+#下载路径=默认
+imgDir=upload\\
+defaultDir=defaultUpload\\
+thumbnailImgDir=thumbnail\\upload\\
+Execl=execl\\
+
+#socket端口=socket1 、socket2 和 websocket
+socketPort1=8501
+socketPort2=8889
+websocketPort=8888

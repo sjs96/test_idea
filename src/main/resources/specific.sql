@@ -1,0 +1,7 @@
+#include("specific/system/meter.sql")
+#include("specific/system/price.sql")
+#include("specific/home/home.sql")
+#include("specific/other/problem.sql")
+#include("specific/other/notice.sql")
+#include("specific/recharge/recharge.sql")
+#include("specific/order/order.sql")
